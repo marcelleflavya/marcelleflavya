@@ -13,3 +13,5 @@
   <img align="center" alt="marcelle-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> 
   <img align="center" alt="marcelle-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
+
+ ![Snake animation](https://github.com/marcelleflavya/marcelleflavya/blob/output/github-contribution-grid-snake.svg)
