@@ -1,5 +1,5 @@
 ### Olá! 👋
-- 🌱 Estudando Dart
+- 🌱 Estudando Dart e Flutter
 - 😄 Pronouns: ela/dela
 
 <div align="center">
