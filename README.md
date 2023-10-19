@@ -7,7 +7,7 @@
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelleflavya&layout=compact&hide_border=true&title_color=f8f8ff&text_color=f8f8ff&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=marcelleflavya&bg_color=0d1117&color=8fbc8f&line=f8f8ff&point=add8e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
   ### Studying in this moment:
