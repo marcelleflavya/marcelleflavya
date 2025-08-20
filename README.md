@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8fbc8f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f8f8ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Marcelle+Souza;I'm+a+Flutter+developer;I'm+studying+Python+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f8f8ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Marcelle+Souza;I'm+a+Flutter+developer+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcelleflavya&show_icons=true&count_private=true&hide_border=true&title_color=f8f8ff&icon_color=f8f8ff&text_color=8fbc8f&bg_color=0d1117" alt="marcelleflavya github stats" />  
@@ -8,23 +8,9 @@
 </div>
 
 
-
-
   ### Studying in this moment:
 ![Flutter](https://img.shields.io/badge/-Flutter-f8f8ff?style=for-the-badge&logo=Flutter&labelColor=0D1117)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-f8f8ff?style=for-the-badge&logo=Dart&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-f8f8ff?style=for-the-badge&logo=Python&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
-<div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>  
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/marcelleflavya/count.svg" />
-  </p> 
-  <br>
-</div>
-
 
 
 <div align="center"> 
